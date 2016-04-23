@@ -12,5 +12,5 @@ thing! https://github.com/PolymerLabs/tedium/issues
 
 -->
 
-_[Demo and API docs](https://elements.polymer-project.org/elements/carbon-elements)_
+_[Demo and API docs](https://elements.polymer-project.org/browse?package=carbon-elements)_
 
